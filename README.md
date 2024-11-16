@@ -1,4 +1,4 @@
-遵循MIT许可
+遵循GPL许可
 
 所有计算器都必须使用Java依赖库
 下载依赖库：azul.com/downloads/#zulu
